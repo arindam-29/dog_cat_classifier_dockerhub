@@ -1,0 +1,7 @@
+tensorflow
+flask
+flask_cors
+gunicorn
+numpy
+tensorflow
+Pillow
